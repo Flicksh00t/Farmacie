@@ -7,6 +7,47 @@ Prototipul include un ecran de Login cu validarea datelor de acces, un Dashboard
 
 Aplicația oferă și o pagină de Statistici, unde sunt afișate vânzările zilnice și produsele cele mai populare, facilitând analiza performanței magazinului. Navigarea între ecrane este realizată prin meniuri și butoane intuitive, iar interfața este proiectată într-un stil vizual coerent, cu tipografie și culori unitare. Prototipul este complet interactiv în Figma, permițând navigarea prin ecrane prin acțiuni de tip click.
 
+### Cerințe funcționale și nefuncționale
+- Cerințe funcționale
+
+Aplicația trebuie să permită autentificarea utilizatorilor printr-un ecran de Login, cu validarea datelor introduse (nume utilizator și parolă).
+
+Sistemul trebuie să suporte două roluri de utilizator: Admin și Vânzător, fiecare cu drepturi specifice.
+
+Aplicația trebuie să afișeze un Dashboard principal care conține lista produselor în format tabelar.
+
+Utilizatorii trebuie să poată căuta produse după denumire.
+
+Aplicația trebuie să permită filtrarea produselor după categorie și preț.
+
+Sistemul trebuie să ofere funcționalități de adăugare, modificare și ștergere a produselor.
+
+Aplicația trebuie să includă un formular de adăugare/modificare produs, cu câmpuri pentru denumire, preț, categorie și stoc.
+
+Sistemul trebuie să permită gestionarea comenzilor, inclusiv vizualizarea acestora și actualizarea statusului.
+
+Aplicația trebuie să ofere o pagină dedicată pentru vizualizarea statisticilor de vânzări, inclusiv vânzări zilnice și produse populare.
+
+Utilizatorii trebuie să poată naviga între ecrane folosind meniuri și butoane.
+
+Aplicația trebuie să permită ieșirea din cont (Logout).
+
+- Cerințe nefuncționale
+
+Interfața aplicației trebuie să fie clară, coerentă și uniformă vizual, utilizând o schemă de culori și tipografie consistentă.
+
+Organizarea elementelor UI trebuie să fie logică și intuitivă, ușor de înțeles pentru utilizatori.
+
+Fluxul aplicației trebuie să fie simplu și ușor de urmărit, fără pași inutili.
+
+Prototipul trebuie să fie complet interactiv în Figma, cu ecrane legate prin acțiuni de tip click.
+
+Aplicația trebuie să răspundă rapid la acțiunile utilizatorului în cadrul prototipului.
+
+Toate ecranele trebuie să respecte același stil vizual (layout, culori, fonturi).
+
+Aplicația trebuie să fie ușor de extins pentru funcționalități viitoare.
+
 
 ### Prototipul Figma
 - <img width="972" height="725" alt="image" src="https://github.com/user-attachments/assets/c1ccc24f-68ee-4507-9ec3-d92471cba6ab" />
